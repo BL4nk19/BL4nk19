@@ -4,7 +4,23 @@
 
 [🔗 Portfolio Coming Soon](https://github.com/BL4nk19)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=BL4nk19&theme=dark&show_icons=true)
+<br>
+
+```bash
+josh@localhost:~$ ls current_projects/
+> portfolio/
+> can-i-even-add-ai-to-this-thing/
+> design-to-code-journey/
+
+josh@localhost:~$ cat reality_check.log
+> [████████████████████████████████████████] 100% coffee
+> [████████████████████████░░░░░░░░░░░░░░░░] 60% portfolio
+> [██████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] -10% next.js mastery
+
+josh@localhost:~$ echo $MOOD
+> attempting_to_build_something_coherent 🤞
+```
+
 
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
@@ -15,3 +31,4 @@
 
 
 </div>
+
