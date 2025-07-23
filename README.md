@@ -1,10 +1,8 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=UX%2FProduct+Designer+from+South+Africa;Aspiring+Design+Engineer;Building+Experiences+With+Minimal+Vibe+Coding+👀;Metal+Music+Enthusiast+%F0%9F%A4%98&font=Fira%20Code&center=true&width=600&height=50&color=f75c7e&vCenter=true&size=20&pause=1000)](https://github.com/BL4nk19)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Product+Designer+from+South+Africa+🇿🇦;Aspiring+Design+Engineer;Building+Experiences+With+Minimal+Vibe+Coding+👀;Metal+Music+Enthusiast+%F0%9F%A4%98&font=Fira%20Code&center=true&width=600&height=50&color=f75c7e&vCenter=true&size=20&pause=1000)](https://github.com/BL4nk19)
 
 [🔗 Portfolio Coming Soon](https://github.com/BL4nk19)
-
-<br>
 
 ```bash
 josh@localhost:~$ ls current_projects/
