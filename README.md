@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Product+Designer+from+South+Africa+🇿🇦;Aspiring+Design+Engineer;Building+Experiences+With+Minimal+Vibe+Coding+👀;Metal+Music+Enthusiast+%F0%9F%A4%98&font=Fira%20Code&center=true&width=600&height=50&color=f75c7e&vCenter=true&size=20&pause=1000)](https://github.com/BL4nk19)
 
-[🔗 My Portfolio]([https://github.com/BL4nk19](https://www.joshvilensky.dev/))
+[🔗 My Portfolio](https://www.joshvilensky.dev/)
 
 ```bash
 josh@localhost:~$ ls current_projects/
