@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Product+Designer+from+South+Africa+%F0%9F%87%BF%F0%9F%87%A6;Head+of+Product+Design+%40+an+AI+startup;Design+Engineer+in+training+(AI+does+the+hard+bits);Metal+Music+Enthusiast+%F0%9F%A4%98&font=Fira%20Code&center=true&width=600&height=50&color=398AA1&vCenter=true&size=20&pause=1000)](https://github.com/BL4nk19)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Product+Designer+from+South+Africa+%F0%9F%87%BF%F0%9F%87%A6;Head+of+Product+Design+%40+an+AI+startup;Design+Engineer+in+training+(AI+does+the+hard+bits);Metal+Music+Enthusiast+%F0%9F%A4%98&font=Fira%20Code&center=true&width=800&height=50&color=398AA1&vCenter=true&size=20&pause=1000)](https://github.com/BL4nk19)
 
 [🔗 joshvilensky.dev](https://www.joshvilensky.dev/)
 ```bash
