@@ -10,9 +10,9 @@ josh@localhost:~$ ls current_projects/
 > agent-platform/        # still figuring out what agents even are tbh
 
 josh@localhost:~$ cat reality_check.log
-> [████████████████████████████████████████] 100% coffee
-> [███████████████████████░░░░░░░░░░░░░░░░░] 70% design engineer
-> [████████████████████░░░░░░░░░░░░░░░░░░░░] 55% convincing devs to use the design system
+> [████████████████████████████████████] 100% coffee
+> [█████████████████████░░░░░░░░░░░░░░░] 70% design engineer
+> [██████████████████░░░░░░░░░░░░░░░░░░] 55% convincing devs to use the design system
 
 josh@localhost:~$ echo $MOOD
 > shipping_things_that_work_with_a_little_help_🤝
